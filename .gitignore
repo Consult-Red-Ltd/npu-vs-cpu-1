@@ -1,0 +1,5 @@
+# results/ is intentionally NOT ignored - benchmark output is plain-text data
+__pycache__/
+.venv/
+venv/
+output/
